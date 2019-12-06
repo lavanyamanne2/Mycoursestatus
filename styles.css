@@ -1,0 +1,174 @@
+.block_mycoursestatus .c1 { /* Course div for condition A,C */
+    /* border: 1px solid green; */
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.block_mycoursestatus .c2 { /* Course for condition A,C */
+    /* border: 1px solid blue; */
+    overflow: hidden;
+    float: left;
+    padding: 4px 0 0 0;
+    width: 63px;
+}
+
+.block_mycoursestatus .c3 { /* Coursename for condition A,C */
+    /* border: 1px solid red; */
+    overflow: hidden;
+    padding: 4px 0 0 4px;
+    font-weight: bold;
+}
+
+.block_mycoursestatus .cc1 { /* Course div for condition B */
+    /* border: 1px solid orange; */
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.block_mycoursestatus .cc2 { /* Course for condition B */
+    /* border: 1px solid cyan; */
+    overflow: hidden;
+    float: left;
+    width: 100px;
+}
+
+.block_mycoursestatus .cc3 { /* Coursename for condition B */
+    /* border: 1px solid gray; */
+    overflow: hidden;
+    font-weight: bold;
+}
+
+.block_mycoursestatus .m1 { /* Modules div for condition A,C */
+    /* border: 1px solid black; */
+    overflow: hidden;
+    margin: 0 auto;
+}
+
+.block_mycoursestatus .m2 { /* Modules for condition A,C */
+    /* border: 1px solid skyblue; */
+    overflow: hidden;
+    float: left;
+    padding: 4px 0 0 0;
+    width: 63px;
+}
+
+.block_mycoursestatus .m3 { /* Progress bar div for condition A,C */
+    /* border: 1px solid blue; */
+    float: left;
+    background: url([[pix:block_mycoursestatus|incomplete]]);
+    background-repeat: no-repeat;
+    height: 19px;
+    width: 100px;
+    overflow: hidden;
+    margin: 5px 0 0 4px;
+}
+
+.block_mycoursestatus .mydiv2 { /* Progress bar for condition A,C */
+    /* border: 1px solid blue; */
+    float: left;
+    background: url([[pix:block_mycoursestatus|complete]]);
+    background-repeat: no-repeat;
+    height: 18px;
+    color: #fff;
+    text-align: center;
+    overflow: hidden;
+    font-size: 13px;
+}
+
+.block_mycoursestatus .out {
+    /* border: 1px solid black; */
+    float: left;
+    overflow: hidden;
+    margin: 4px 0 0 4px;
+    text-align: center;
+    width: 100px;
+    font-size: 12px;
+}
+
+.block_mycoursestatus .completed {
+    /* border: 1px solid black; */
+    border-top-left-radius: 2em 2em;
+    border-top-right-radius: 2em 2em;
+    border-bottom-right-radius: 2em 2em;
+    border-bottom-left-radius: 2em 2em;
+    float: left;
+    width: 100px;
+    overflow: hidden;
+    margin: 4px 0 0 4px;
+    padding: 3px 0 3px 0;
+    text-align: center;
+    background: #32cd32;
+    background-repeat: no-repeat;
+    font-weight: bold;
+}
+
+.block_mycoursestatus .vreport {
+    /* border: 1px solid blue; */
+    float: left;
+    width: 100px;
+    overflow: hidden;
+    margin: 4px 0 0 4px;
+    color: #008000;
+    font-size: 11px;
+    text-align: center;
+}
+
+.block_mycoursestatus .report {
+    /* border: 1px solid blue; */
+    overflow: hidden;
+    padding: 3px;
+    text-align: center;
+}
+
+.block_mycoursestatus .nostat {
+    /* border: 1px solid blue; */
+    border: 0 solid blue;
+    overflow: hidden;
+    padding: 3px;
+    font-size: 12px;
+    color: #fe642e;
+}
+
+.block_mycoursestatus .footer {
+    /* border: 1px solid blue; */
+    margin-top: 5px;
+}
+
+.report {
+    /* border: 1px solid blue; */
+    padding-right: 4px;
+    padding-bottom: 8px;
+}
+
+.cond1 {
+    /* border: 1px solid blue; */
+   margin-top: 40px;
+}
+
+.cond2 {
+    /* border: 1px solid blue; */
+    padding-right: 4px;
+    padding-bottom: 8px;
+}
+
+.mtable {
+    /* border: 1px solid blue; */
+    margin-top: 15px;
+    margin-bottom: 17px;
+    min-width: 90%;
+    width: 95%;
+}
+
+.mtable th {
+    /* border: 1px solid blue; */
+    background: #dee2e6;
+    width: 50%;
+    text-align: center;
+}
+
+.mtable th,
+td {
+    border: 1px solid #dee2e6;
+    padding: 8px;
+    width: 50%;
+}
