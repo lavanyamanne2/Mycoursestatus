@@ -1,8 +1,7 @@
 Mycoursestatus block
 
-mycoursestatus is a student block for inclusive course completion report. You can add this plugin at system & course level:
-system = displays attempted courses.
-course = displays attempted modules of a course. 
+Mycoursestatus is a course completion report block, developed for student and editing teacher (from v3.9). You can add the block
+plugin at site/global and course context level.
 
 https://moodle.org/plugins/block_mycoursestatus
 
