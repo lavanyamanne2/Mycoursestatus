@@ -21,6 +21,7 @@ How it works
         (2) Condition B - module with course completion
         (3) Condition C - course grade completion
         (Note: Choose either one condition for course completion).
+(5) Execution of cron job is required for course completion.        
 
         (1) Condition A - module completion
             ===============================
