@@ -2,10 +2,10 @@
 Mycourse Status
 ===============
 
-Mycourse Status is a course completion block for student and editing teacher (from v3.9). You can add the block at site/global and course context level.
+Mycourse Status is a course completion block for student and editing teacher (from v3.9). You can add the block at SITE and COURSE context levels.
 
-Site/Global: display attempted courses.
-Course: display attempted modules of a course.
+SITE: shows attempted courses.
+COURSE: shows attempted course modules.
 Download report as PDF/MS-Word for student and Pie chart for editing teacher.
 
 How it works
